@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "translation": "reformationsbibeln2026",
+  "sourceHash": "baa91b11fc58e51bdd213a2a485664adcc26c51162efa205d09a100fc91b7622",
+  "revision": "aac64-a7ee66d7335d",
+  "bookId": 23,
+  "book": "Isaiah",
+  "bookName": "Jesaja",
+  "chapter": 31,
+  "expectedVerses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "container": "m4a",
+  "encoding": {
+    "name": "aac",
+    "profile": "aac_low",
+    "bitrate": 64000,
+    "sampleRate": 44100,
+    "channels": 1,
+    "container": "m4a",
+    "encoder": "ffmpeg aac",
+    "version": "aac64-v1"
+  },
+  "provider": "elevenlabs",
+  "model": "eleven_v4",
+  "voice": "qAZH0aMXY8tw1QufPN0D",
+  "voiceId": "qAZH0aMXY8tw1QufPN0D",
+  "voiceName": "ElevenLabs",
+  "verses": [
+    {
+      "verse": 1,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/23/031-aac64-a7ee66d7335d/verse-001.m4a",
+      "duration": 17.2,
+      "sha256": "20a6ede6e5a616b0024524e402da099c809511cdc9909802175512c5c320b6e1",
+      "textHash": "ad04ce7b1729abb09fed0bd38cb76fb6b0462dfd922aebbe14a26b81e533bbeb"
+    },
+    {
+      "verse": 2,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/23/031-aac64-a7ee66d7335d/verse-002.m4a",
+      "duration": 11.36,
+      "sha256": "7400727f5ba1892ee70bb69df3e822273098d9052c70d78cb37508133134846e",
+      "textHash": "a8a96416b4cd01ad995d648025a7bc9e869dbd51175e09e95c52ff8bea009a24"
+    },
+    {
+      "verse": 3,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/23/031-aac64-a7ee66d7335d/verse-003.m4a",
+      "duration": 15.12,
+      "sha256": "2a36ae83e0d00bd033ac5b5b34b6cd1b2af15cf9c2a4839fbcded39c0b29e19c",
+      "textHash": "0d4e8fe0546c39028830c46c79830130d9f3b728a9ab6cbbe9b928e7906ef202"
+    },
+    {
+      "verse": 4,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/23/031-aac64-a7ee66d7335d/verse-004.m4a",
+      "duration": 19.2,
+      "sha256": "ca653c536dc8673c1c3fcde5f929f2728c786e50ef5d884168bcb6a569805dfa",
+      "textHash": "e230b66533d61d8144de67630af06ca1e57438cada82697209738e1ec8ede416"
+    },
+    {
+      "verse": 5,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/23/031-aac64-a7ee66d7335d/verse-005.m4a",
+      "duration": 9.92,
+      "sha256": "f3a74f7eb41d9dbc48600be3a88cb07b5670907ee819c33650bd65c8c032ccaa",
+      "textHash": "dc615b3a8109ba66de1d972424a0f4ce4e99e08926febe3428f8a6ef3858353d"
+    },
+    {
+      "verse": 6,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/23/031-aac64-a7ee66d7335d/verse-006.m4a",
+      "duration": 5.28,
+      "sha256": "e29b8bc9c7fe41196655f5c1d577efa37a3eccba0e769b94c6c2750881a0a60b",
+      "textHash": "9289f9ae903c23b160b964a7197e930281b4c08993d73f288caef51520c94e21"
+    },
+    {
+      "verse": 7,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/23/031-aac64-a7ee66d7335d/verse-007.m4a",
+      "duration": 10.0,
+      "sha256": "77d83c040e7c60aef6dbe1fa7f1a1031e99917030ff33d88d22d82d686150d6a",
+      "textHash": "d1769f1482637bda66cc37276a104ab65d5550a19e8ef6f895533cf917eccbaa"
+    },
+    {
+      "verse": 8,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/23/031-aac64-a7ee66d7335d/verse-008.m4a",
+      "duration": 14.08,
+      "sha256": "c716d179e05b69072ea2dd0c18a50b8b4833a677a1930b02b4c3576ce3379354",
+      "textHash": "e5a144c41919e23729a8ba7e17e8c16be2a92ba9c9117fc522c179d6649282a3"
+    },
+    {
+      "verse": 9,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/23/031-aac64-a7ee66d7335d/verse-009.m4a",
+      "duration": 11.76,
+      "sha256": "207104ededee4ccb8916397ce997dc2f5ab8e2cbdd93f3efd2182ce847284a52",
+      "textHash": "bc7b7a57f37e7fd03ef94113eb48892c66954e954d49315869a0264915b7bd48"
+    }
+  ]
+}
