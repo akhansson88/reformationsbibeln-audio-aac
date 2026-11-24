@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "translation": "reformationsbibeln2026",
+  "sourceHash": "711368f75547763f2c8b43c7ae5ae9b37397094335b514988978f9598cf2541f",
+  "revision": "aac64-d2e7807b15b2",
+  "bookId": 14,
+  "book": "2 Chronicles",
+  "bookName": "Andra Krönikeboken",
+  "chapter": 16,
+  "expectedVerses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "container": "m4a",
+  "encoding": {
+    "name": "aac",
+    "profile": "aac_low",
+    "bitrate": 64000,
+    "sampleRate": 44100,
+    "channels": 1,
+    "container": "m4a",
+    "encoder": "ffmpeg aac",
+    "version": "aac64-v1"
+  },
+  "provider": "elevenlabs",
+  "model": "eleven_v4",
+  "voice": "qAZH0aMXY8tw1QufPN0D",
+  "voiceId": "qAZH0aMXY8tw1QufPN0D",
+  "voiceName": "ElevenLabs",
+  "verses": [
+    {
+      "verse": 1,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/14/016-aac64-d2e7807b15b2/verse-001.m4a",
+      "duration": 11.92,
+      "sha256": "ff29693f754a0b21f4a64d2330f4a6e532e2593818153666e892eff9499acc59",
+      "textHash": "bb3211f6def84aeab1cf532615f0ac54f0f886a538407438b0b2a0839e8a830a"
+    },
+    {
+      "verse": 2,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/14/016-aac64-d2e7807b15b2/verse-002.m4a",
+      "duration": 11.76,
+      "sha256": "13a847e79d6e70c0846ad00b396787f3b0f5ffddd5802e9024f5d67638dfc2b5",
+      "textHash": "ddc451597592f6a6196743e2ebc87584726ae07d2c5f17125324d716c7bef029"
+    },
+    {
+      "verse": 3,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/14/016-aac64-d2e7807b15b2/verse-003.m4a",
+      "duration": 14.64,
+      "sha256": "3c5e5c0f23fa1614bd7d1ca54b8f5593c8a7355bb56555b2d73c7c290799113d",
+      "textHash": "97ce2ea1ab034c7c251ba65b4afd9dd2ade2040f8e34e1f2b85c835f6ce6a948"
+    },
+    {
+      "verse": 4,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/14/016-aac64-d2e7807b15b2/verse-004.m4a",
+      "duration": 12.08,
+      "sha256": "6c851198c765661bcb653fe67e833c166000cecb442e1df3026a586d02ed064e",
+      "textHash": "00cd5c5a5f83fb138f6acf9ce45ab6d411048700bdf6a10dbbf79190a88c224d"
+    },
+    {
+      "verse": 5,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/14/016-aac64-d2e7807b15b2/verse-005.m4a",
+      "duration": 7.12,
+      "sha256": "f68c5862d6fe4c473f6584c2ba461ad2d8c1c4604137460534ef477120f8944f",
+      "textHash": "de5f6d8233160765698688899714af374fa4e1fe42751a8eccb2df2941d198ff"
+    },
+    {
+      "verse": 6,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/14/016-aac64-d2e7807b15b2/verse-006.m4a",
+      "duration": 11.28,
+      "sha256": "8c939098a0f63fc7c059c77a47200cbdca1da003a4dca1c4d3fd3cd9b882210c",
+      "textHash": "d21ad84bdd0a21378ded2d011c48be0af5af4f6f28710e74fa755854de97e852"
+    },
+    {
+      "verse": 7,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/14/016-aac64-d2e7807b15b2/verse-007.m4a",
+      "duration": 16.56,
+      "sha256": "2e633ac6d28c1b57077db61867c7ed5532ed6f76e06bdd0c77d9636579f5a67f",
+      "textHash": "03215f30b2df2b6151a0343375ee94e34c29c1c47609f3782a21fe090d0bf03d"
+    },
+    {
+      "verse": 8,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/14/016-aac64-d2e7807b15b2/verse-008.m4a",
+      "duration": 10.56,
+      "sha256": "5bd877d5d94e25c7cb5a1d9ea25c742b8ea9136444e65cbbe29fcdf329fba4f8",
+      "textHash": "19f4770d3ec5c3ab11f9b1bd1756f061761deaa8b7adae47249976715349e786"
+    },
+    {
+      "verse": 9,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/14/016-aac64-d2e7807b15b2/verse-009.m4a",
+      "duration": 13.44,
+      "sha256": "5f25a3caed508bf384ebf3e150a1088ba7444b3bc55792f8f785886afa2c525c",
+      "textHash": "30b30218ab16b95565425df2b8088d776dc04c79604547c5dcfe635b1ea7607f"
+    },
+    {
+      "verse": 10,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/14/016-aac64-d2e7807b15b2/verse-010.m4a",
+      "duration": 10.0,
+      "sha256": "68b0992a8e506d1117cd0b078eb7ab7edde439a6d1b4dd2e2aea0d692f9a12e0",
+      "textHash": "33b685d49fe4d72fe5dfeeb3cf6d564a5d8b13cf18f7e4869ede482fcd07eeef"
+    },
+    {
+      "verse": 11,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/14/016-aac64-d2e7807b15b2/verse-011.m4a",
+      "duration": 9.28,
+      "sha256": "083c70dd4e1a03fd8e1c09fce1d0b67f26f0d8bdb6794843c139865a6b68e8c8",
+      "textHash": "d25812be52b36c3395ba5388caaa22894397b30058b354dcd948252ea27bb93d"
+    },
+    {
+      "verse": 12,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/14/016-aac64-d2e7807b15b2/verse-012.m4a",
+      "duration": 10.72,
+      "sha256": "6c1ed8f7f87049c3c7f6e3283c5bb67b06bd508bd7274ed3ce5a867a85041faa",
+      "textHash": "6f1a110c6e25bf972897a48b29936f598a7a1c9c4ca95094280f65d1f90777c0"
+    },
+    {
+      "verse": 13,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/14/016-aac64-d2e7807b15b2/verse-013.m4a",
+      "duration": 5.68,
+      "sha256": "fa1d5e8b53b2b7ca0e9ec11b8aae1f5d16ab55592fb1adca84ed48075d6f035a",
+      "textHash": "dbd6a6fdc0d44160f8661e2314bf2c50d4d6d93f720f60d308659dd9ed251ca6"
+    },
+    {
+      "verse": 14,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/14/016-aac64-d2e7807b15b2/verse-014.m4a",
+      "duration": 16.8,
+      "sha256": "3d5ad62973e5820250488aba7f2a3c9efb029564ddaf5bb45ddfe0db3c6bd7d5",
+      "textHash": "c43de0376a092d120aef9ac18c3dba43d9fce32d1b16d7fbc93dc9eb5ea7ee7b"
+    }
+  ]
+}
