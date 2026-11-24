@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "translation": "reformationsbibeln2026",
+  "sourceHash": "599a052f0611b3a90f84f4d2b70fe24eded29972396164961cdf4f25dd8766e6",
+  "revision": "aac64-261ef762fe3a",
+  "bookId": 17,
+  "book": "Esther",
+  "bookName": "Ester",
+  "chapter": 10,
+  "expectedVerses": [
+    1,
+    2,
+    3
+  ],
+  "container": "m4a",
+  "encoding": {
+    "name": "aac",
+    "profile": "aac_low",
+    "bitrate": 64000,
+    "sampleRate": 44100,
+    "channels": 1,
+    "container": "m4a",
+    "encoder": "ffmpeg aac",
+    "version": "aac64-v1"
+  },
+  "provider": "elevenlabs",
+  "model": "eleven_v4",
+  "voice": "qAZH0aMXY8tw1QufPN0D",
+  "voiceId": "qAZH0aMXY8tw1QufPN0D",
+  "voiceName": "ElevenLabs",
+  "verses": [
+    {
+      "verse": 1,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/17/010-aac64-261ef762fe3a/verse-001.m4a",
+      "duration": 5.12,
+      "sha256": "e5fc699a70f469e5a441c8f7f9b056bb6e279844659d00b903ffd7fe34db0895",
+      "textHash": "a9d6d54cdf18b72a7b812c7dc4cc1d1acef07a357f06dee6795c7bbdfd458ef9"
+    },
+    {
+      "verse": 2,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/17/010-aac64-261ef762fe3a/verse-002.m4a",
+      "duration": 12.4,
+      "sha256": "ca4bfa9ec005a37d77eedba21b11885faf4f1c5f74ca0e871e515e51d9e6e55a",
+      "textHash": "615035f95cffc0262925342091c7da29c92aaf9dcf829448b0a6ab65c67da48a"
+    },
+    {
+      "verse": 3,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/17/010-aac64-261ef762fe3a/verse-003.m4a",
+      "duration": 13.36,
+      "sha256": "8a9d56ae2826d8c615da41537a043869cab0a13dd4bda8efcded6bdc768fc596",
+      "textHash": "21d4e72d82e7dafab489279c8fc5991025821c9902f7f7e944d837162e2b80a7"
+    }
+  ]
+}
