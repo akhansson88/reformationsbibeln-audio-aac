@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "translation": "reformationsbibeln2026",
+  "sourceHash": "a66327c4fe3fb2b7effc41cc74c7fe203c17c91096ca465a9a1786d8f83bee6d",
+  "revision": "aac64-c6b5b8d67d72",
+  "bookId": 6,
+  "book": "Joshua",
+  "bookName": "Josua",
+  "chapter": 20,
+  "expectedVerses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "container": "m4a",
+  "encoding": {
+    "name": "aac",
+    "profile": "aac_low",
+    "bitrate": 64000,
+    "sampleRate": 44100,
+    "channels": 1,
+    "container": "m4a",
+    "encoder": "ffmpeg aac",
+    "version": "aac64-v1"
+  },
+  "provider": "elevenlabs",
+  "model": "eleven_v4",
+  "voice": "qAZH0aMXY8tw1QufPN0D",
+  "voiceId": "qAZH0aMXY8tw1QufPN0D",
+  "voiceName": "ElevenLabs",
+  "verses": [
+    {
+      "verse": 1,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/06/020-aac64-c6b5b8d67d72/verse-001.m4a",
+      "duration": 2.72,
+      "sha256": "9751b9d1d639d951dbd9b6fa7f6ef9164a8c00baf0e5b4d1b499d2e5aade2b15",
+      "textHash": "b0e5a05adca883226b8ec16c410ac1220df74447330be09197e5fe7bb4f2645d"
+    },
+    {
+      "verse": 2,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/06/020-aac64-c6b5b8d67d72/verse-002.m4a",
+      "duration": 7.92,
+      "sha256": "3bdde69d973de76b0fc71b0f29d8e1ab6cd27f99b34257913acbbfa6543ebdad",
+      "textHash": "9f70eaf52d351c914aae55b73ccf104cde42657297b430ed517eab7b468de405"
+    },
+    {
+      "verse": 3,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/06/020-aac64-c6b5b8d67d72/verse-003.m4a",
+      "duration": 9.76,
+      "sha256": "07fc8cba742a366b5e4dbd9d474d65f630a1d9657ef29b74e7c84bffa5b0f702",
+      "textHash": "cde2d8d99fedd4a0158abe2621b2440eb4e8fb8b720546c1b29b6a46efeb778c"
+    },
+    {
+      "verse": 4,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/06/020-aac64-c6b5b8d67d72/verse-004.m4a",
+      "duration": 14.16,
+      "sha256": "bc862655251adc6c7479ebd2fb0de75af34417f2a2bc61bde3323c3c4b50e7c6",
+      "textHash": "c16aff646dc0eeb26e933f9adf48a4c75be00f1fcbf9140b7a630663a3dbec53"
+    },
+    {
+      "verse": 5,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/06/020-aac64-c6b5b8d67d72/verse-005.m4a",
+      "duration": 11.68,
+      "sha256": "3f7129c41b39fe09b797f19f8c0307a441cb545ba1057e55eef41c8f28c1513c",
+      "textHash": "e67267223f4e2e8365e9fa772c6d5681eb9102e081a967a55aa9048e7e1c9be2"
+    },
+    {
+      "verse": 6,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/06/020-aac64-c6b5b8d67d72/verse-006.m4a",
+      "duration": 15.52,
+      "sha256": "df7488aa553a82d730ccdefcadbcc694e0a4ac9b8044de1ba8aa42c0befe8a32",
+      "textHash": "6f0fb0552523eccf9c8a3eaf5520f399d6da1aeea4b95cdf6f514292ee67ce82"
+    },
+    {
+      "verse": 7,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/06/020-aac64-c6b5b8d67d72/verse-007.m4a",
+      "duration": 11.12,
+      "sha256": "8c7c143ca098e4d8ca0144955da11d030571d67976a8a88e785b7f0c961fc247",
+      "textHash": "70f5c7063075f1b3167097b6a001eb748a67be4c6714cf40fbbac9daddfe4503"
+    },
+    {
+      "verse": 8,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/06/020-aac64-c6b5b8d67d72/verse-008.m4a",
+      "duration": 14.64,
+      "sha256": "5d636d519b42ee11ab76822d0047ea0739e7b0a1e9fe2425e7490399468f7d8d",
+      "textHash": "5d898094947e50d07365d74440c944edca72cbbbceb803876a29908516dcd2f0"
+    },
+    {
+      "verse": 9,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/06/020-aac64-c6b5b8d67d72/verse-009.m4a",
+      "duration": 16.64,
+      "sha256": "5c11d6258110f980d3077ba3bed631fb09e961151a6cc3fbb28860db04949a68",
+      "textHash": "e0220fec88731b48016193d9fae3ac04a8facdd6df4d145d323d639f70f7e9ed"
+    }
+  ]
+}
