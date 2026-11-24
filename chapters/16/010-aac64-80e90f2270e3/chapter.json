@@ -1,0 +1,342 @@
+{
+  "schemaVersion": 1,
+  "translation": "reformationsbibeln2026",
+  "sourceHash": "18f1c71dda434eac6131a5e05a08f460fb4ccae72fca06a379def817e74bfde5",
+  "revision": "aac64-80e90f2270e3",
+  "bookId": 16,
+  "book": "Nehemiah",
+  "bookName": "Nehemja",
+  "chapter": 10,
+  "expectedVerses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "container": "m4a",
+  "encoding": {
+    "name": "aac",
+    "profile": "aac_low",
+    "bitrate": 64000,
+    "sampleRate": 44100,
+    "channels": 1,
+    "container": "m4a",
+    "encoder": "ffmpeg aac",
+    "version": "aac64-v1"
+  },
+  "provider": "elevenlabs",
+  "model": "eleven_v4",
+  "voice": "qAZH0aMXY8tw1QufPN0D",
+  "voiceId": "qAZH0aMXY8tw1QufPN0D",
+  "voiceName": "ElevenLabs",
+  "verses": [
+    {
+      "verse": 1,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-001.m4a",
+      "duration": 8.24,
+      "sha256": "abe012d2491a20c891cadb4fd863be121e68c9867f36d1aaab375b7a9b4b2bb7",
+      "textHash": "a3ec03361491848f630eb2dd97d04a9268bae62889b5fa5238eecdc24ae0f99b"
+    },
+    {
+      "verse": 2,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-002.m4a",
+      "duration": 3.44,
+      "sha256": "8470fc40b1712123b51aa54ac4760cff7277ce6c79fa3c517b315570003a3e0c",
+      "textHash": "3eaf9f7c98a566b4c5ba711dd2959adcac65fd45b0e3689b6df52c7670114d42"
+    },
+    {
+      "verse": 3,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-003.m4a",
+      "duration": 3.28,
+      "sha256": "1f4e08502e2478bbb776e5eeefab404ae31702bf7e44faa0b07b7c10812f427f",
+      "textHash": "5ea266d728ed910609a760e2227376087d4c3115bb00dccfbd92c74da2f57fc5"
+    },
+    {
+      "verse": 4,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-004.m4a",
+      "duration": 2.88,
+      "sha256": "82f3550b3a9c6c5bf07ab8a5fc70256f9b5fd4887c3a28d5d79d0cb80ccb599b",
+      "textHash": "d14a4ac5d03721e1f9206f77587f4e637efc685a24c24ffa7c8efc077792dc1a"
+    },
+    {
+      "verse": 5,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-005.m4a",
+      "duration": 2.96,
+      "sha256": "4bec3dfebd06b6d7ee969cfa7e46440ef72d666e758fb1b4963d860b20efff73",
+      "textHash": "a4dac7065feede2e6c61d43f7ba62b3b0003ec3bc574035cd506c45e47aa933d"
+    },
+    {
+      "verse": 6,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-006.m4a",
+      "duration": 2.8,
+      "sha256": "a31605ffb645e2b4fa445826d7f84fa71777b5c34e1e53ad76a5626a4144a7bc",
+      "textHash": "754e2994783299701788c8345082a91fbb4c49025cef7d291f0065a3f789ff89"
+    },
+    {
+      "verse": 7,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-007.m4a",
+      "duration": 2.96,
+      "sha256": "59cc760641f008bb41494d289f8ed360ce6c597db1a6d08743fde230c3903fcb",
+      "textHash": "111bd651e843f95c234fd38628e05f17c8f8e0ff1478bea3e81766f62c6aa8b4"
+    },
+    {
+      "verse": 8,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-008.m4a",
+      "duration": 4.72,
+      "sha256": "b96164d887a9727a29c49524e4a6d0c88fb3cd0839bee81c8f3205f731e11464",
+      "textHash": "19c2536c2197ec6cad2d666a848c3145ccb764d140bae65bee874a0e7054680d"
+    },
+    {
+      "verse": 9,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-009.m4a",
+      "duration": 7.68,
+      "sha256": "410f2e316c2d4d63682d381bf57f8caff4cf7b4dbf770abdeeec82ef179b1522",
+      "textHash": "fed47bb7ccf2eb9878161d771df188516745f88e4cb074df97d56b946cd53d21"
+    },
+    {
+      "verse": 10,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-010.m4a",
+      "duration": 6.08,
+      "sha256": "78007ad014bedb51104e62aa1bbc06f5c6de4f08d7a73c65b5fecb1881aa0cdf",
+      "textHash": "b8a6dad913cb387b3bb7212ebbda09fe5e84eb307f82e556fddbdd2c0c4fabf5"
+    },
+    {
+      "verse": 11,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-011.m4a",
+      "duration": 2.88,
+      "sha256": "8181795e616ed5a7e744d3d78dc27b4139ede3d0891908f3d74e101011f4c9a6",
+      "textHash": "b27a754f6d7f00f27ca4a386527ab1b86857edfc532be5b8b377cf11d8557b30"
+    },
+    {
+      "verse": 12,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-012.m4a",
+      "duration": 3.2,
+      "sha256": "a6e5efc8acc4a3539e7134d9104444da5307ab6233b750410b4572cfdf0c3594",
+      "textHash": "cf9c7860d44d1863c0bcb0698838fc1e5d547221a38821730c70c8049150e9d2"
+    },
+    {
+      "verse": 13,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-013.m4a",
+      "duration": 2.64,
+      "sha256": "b9df4bddf7683d131aede1c57066b9f75bcefcca1db81167fe81391994e0872d",
+      "textHash": "0e072aff0c166530ee728c78d232029091361037a67a612b79d72a0f8b638400"
+    },
+    {
+      "verse": 14,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-014.m4a",
+      "duration": 7.12,
+      "sha256": "651a70280bfc6b3348cafbf26c430a958bd89c76c38945625e67c6d8a8d8f0db",
+      "textHash": "6c284ecad5f4c64909b4cabb897b86e4cd6d98b783728ab20cc759b42a4869fa"
+    },
+    {
+      "verse": 15,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-015.m4a",
+      "duration": 2.72,
+      "sha256": "109742bce3ce4a6214c472436c54171ed6e3ecc992a2577b50c16f3644e7af2d",
+      "textHash": "91f67158f227510958dab756361d282aa6e1bbd7fcf653df04ba406fbe6ae643"
+    },
+    {
+      "verse": 16,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-016.m4a",
+      "duration": 2.96,
+      "sha256": "29acf90f5cf4515e361d59e5efc504969dd46f7ab4f848b1a1d111f5fb62a808",
+      "textHash": "c186d4aca4c481cccbcb832eb47c337fe307e24796e0f80bac93e86a07c4dfb6"
+    },
+    {
+      "verse": 17,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-017.m4a",
+      "duration": 2.8,
+      "sha256": "8af82605f246647805fb09a927be49b09bee4d814868a2069eedce048237b818",
+      "textHash": "3787b49fd4e994e5d33ab29b18b55b53f14b9c2bf82673f59529cfad3aea8763"
+    },
+    {
+      "verse": 18,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-018.m4a",
+      "duration": 2.8,
+      "sha256": "dbd74af9a62787f05b5ebb7928b11ae6f9906cda44a8406c10ec1a9b51e0be52",
+      "textHash": "0784b34e70b4d1404935710208b8eec9bb1c09d65484d47449061ee1f8acde93"
+    },
+    {
+      "verse": 19,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-019.m4a",
+      "duration": 3.04,
+      "sha256": "e4c170e5145cac4eadd4850997ceb959ac9bb37a9c59731827d18ecb03a37f8c",
+      "textHash": "2265a3234a5d5dd130243cf75b99a7a1fee6c17d813d4b3f4da6de25e567609a"
+    },
+    {
+      "verse": 20,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-020.m4a",
+      "duration": 2.88,
+      "sha256": "89e1a1199a8dc906b3852a43c0812cc5c96e73eaaf529d93392477221ad1fdd3",
+      "textHash": "4e050650856adcaa480ceff96e173f3a062470101d1c55d0db41379d8f79dd92"
+    },
+    {
+      "verse": 21,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-021.m4a",
+      "duration": 3.28,
+      "sha256": "607c15748b2c8e554d26d7d3e3402f1c6eb616d64669956caa891be8cc509265",
+      "textHash": "c0e8e8b71d4c052fbe106abb80ad17a5e7967546e2858a0bb5b8f7aca2fb6c6e"
+    },
+    {
+      "verse": 22,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-022.m4a",
+      "duration": 2.8,
+      "sha256": "3bcb7fa99d1bc85468cf749568851c572d86b0d339f37a191de1ad20284ac4ee",
+      "textHash": "5b201f27f48ce4d445ff071c787baa067b57dde7714e317be5f4b656919c7c9f"
+    },
+    {
+      "verse": 23,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-023.m4a",
+      "duration": 2.8,
+      "sha256": "b4ad4399f478a76e766904347682c381e29be89543a9169a96027b5b1f33fd9d",
+      "textHash": "e7cf32f1b32e6efae9ba388cecbad9bb9ca3802e60c4c892d6e60a83d77c1554"
+    },
+    {
+      "verse": 24,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-024.m4a",
+      "duration": 2.88,
+      "sha256": "7a1fd0874656bb6ccca3210228e50059ec21c6839994b367ba996ccd6cc5be17",
+      "textHash": "ad928e167338f38ff2f0c2bd46d29fe688027dfa03e002053a06feb2ed099260"
+    },
+    {
+      "verse": 25,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-025.m4a",
+      "duration": 3.36,
+      "sha256": "bf7e1316234e6f4a23759113a47680b95825ee0a3aa7e9dad9b2c5b4be5cb511",
+      "textHash": "07c507820e709fce8ebd80e3bbc0548e5c3de26ce5a8b73f8ea9f2eb40a2bb89"
+    },
+    {
+      "verse": 26,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-026.m4a",
+      "duration": 2.72,
+      "sha256": "141912ec3b1053140f05ab8bdf0127c237d912de0e72c264deff71106013498a",
+      "textHash": "4a26d8dbbf6b18c39799aa29524a495ca017a1ef5f7c0a0e2867dc2927690036"
+    },
+    {
+      "verse": 27,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-027.m4a",
+      "duration": 2.56,
+      "sha256": "e13fabb90136130964e51c3cca1d3b5145ff936ea93554dc87acc50480c19302",
+      "textHash": "15936b4189275291a6228f909deb28480df9a710af2786791b5a8e3e55502f39"
+    },
+    {
+      "verse": 28,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-028.m4a",
+      "duration": 17.84,
+      "sha256": "f8ffb70ab6fd4774f292e011bfef058d06177970c1afebf2cf9be4f67dd37960",
+      "textHash": "b8181a56882df26db1cc25c4ae3fe6f47b70377e27cf2ac8c12daeff7592a7aa"
+    },
+    {
+      "verse": 29,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-029.m4a",
+      "duration": 17.44,
+      "sha256": "523430dbe799e76eea5fe785a9c2c5b518ad22ac0956d354725ab3e8c3c805a8",
+      "textHash": "099aeed7270ab63bcbe75a27772c163275228c6609a5f700f7b68797a6d28008"
+    },
+    {
+      "verse": 30,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-030.m4a",
+      "duration": 8.0,
+      "sha256": "e98c87156db99f6c4d48ec681584384aa97678f267d9bf89595405c4dbc8bf4c",
+      "textHash": "267b27688e450bb13469f7eb068a411bf8ba558a0e1ced75c7a9006817df512d"
+    },
+    {
+      "verse": 31,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-031.m4a",
+      "duration": 15.2,
+      "sha256": "755d18d42e99c9ce584b4f0f14c59ebe86e5529eb636a1b4660c178e10f64205",
+      "textHash": "fc956f12b4943df4eec2d3f22394a4aca48b7001e967650291bca9cc7c93e5a4"
+    },
+    {
+      "verse": 32,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-032.m4a",
+      "duration": 6.56,
+      "sha256": "b1bc8449678c586eb6d453e5e25aafa3de58c20ee54ea0c6c78eaedc1d85b6bd",
+      "textHash": "1474a0285a5a351274f89565af62265ba586549cbe6da427ad3d232f177558f7"
+    },
+    {
+      "verse": 33,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-033.m4a",
+      "duration": 16.56,
+      "sha256": "bf64096ec10cfd0aa4e17319e152c5ff4334a4f56521607485d9c07c7f848274",
+      "textHash": "2f1c425792c286a89c29ce81ec3e399b2b6c3188f35a956eebed8c3568c4c048"
+    },
+    {
+      "verse": 34,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-034.m4a",
+      "duration": 15.6,
+      "sha256": "446e5422c861dd91b1e67a34192e08d40838300e7fa687c7399a7b8e096f7285",
+      "textHash": "f258a1d3daa7614d41101ee636857ce917cf6aed619a039471882cb896ef4540"
+    },
+    {
+      "verse": 35,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-035.m4a",
+      "duration": 8.8,
+      "sha256": "a37525b9e56cc8131c3e702f4ad5016ae614017ce52857a70d49fd9541702728",
+      "textHash": "c3c4f2430608d0d36f46d8132e76fdf07d74ad1f58a706874ecdc25c51617679"
+    },
+    {
+      "verse": 36,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-036.m4a",
+      "duration": 15.36,
+      "sha256": "21ebf2caf4faa48b62095695ecc654a6f9f70038070faf4e8e4e6ec32779f471",
+      "textHash": "b35cf52d20f38753ef10c21f62d08730f9b623d3dcb9e09c60e7835c6d487e74"
+    },
+    {
+      "verse": 37,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-037.m4a",
+      "duration": 18.96,
+      "sha256": "6f2b83f071ce78ea0fbcdd8e98ab35c47bc43431d1f11019d9c919b3640fc9dc",
+      "textHash": "d2da67d5be2c00a6a77b39b5cfe3d64006bf47cd7d6a8415bd62afe23df45ef9"
+    },
+    {
+      "verse": 38,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-038.m4a",
+      "duration": 13.68,
+      "sha256": "14b7bd64797afa75855828d295be794a6b7bd25fcfa4b4a314deff39a00d60a4",
+      "textHash": "f2f92847b3094865cf6464cba58577c071a8911ef0a47c92530facadf76775b1"
+    },
+    {
+      "verse": 39,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/16/010-aac64-80e90f2270e3/verse-039.m4a",
+      "duration": 16.64,
+      "sha256": "1e8873cc3bef98f656e15f3f956f2091baf5b3f3c37b49942df98e9c29bdbd96",
+      "textHash": "7d906ff8528b455ca56dea8e991d4278ebaab507180cb7cfc9e8d28e9fa041a6"
+    }
+  ]
+}
