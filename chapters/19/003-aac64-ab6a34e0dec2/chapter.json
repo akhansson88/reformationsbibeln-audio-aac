@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "translation": "reformationsbibeln2026",
+  "sourceHash": "9731a41805868705b565a5b26c08f4dc3ca292248ac82a02baddaba8184dff64",
+  "revision": "aac64-ab6a34e0dec2",
+  "bookId": 19,
+  "book": "Psalms",
+  "bookName": "Psaltaren",
+  "chapter": 3,
+  "expectedVerses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "container": "m4a",
+  "encoding": {
+    "name": "aac",
+    "profile": "aac_low",
+    "bitrate": 64000,
+    "sampleRate": 44100,
+    "channels": 1,
+    "container": "m4a",
+    "encoder": "ffmpeg aac",
+    "version": "aac64-v1"
+  },
+  "provider": "elevenlabs",
+  "model": "eleven_v4",
+  "voice": "qAZH0aMXY8tw1QufPN0D",
+  "voiceId": "qAZH0aMXY8tw1QufPN0D",
+  "voiceName": "ElevenLabs",
+  "verses": [
+    {
+      "verse": 1,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/19/003-aac64-ab6a34e0dec2/verse-001.m4a",
+      "duration": 4.16,
+      "sha256": "014ccb0f7446cd7869f9ff93e207df9b850e6dcbc913b3cb651313e6e4bf2d60",
+      "textHash": "04fd575b3cd62cb6a1e07b0ae3fc754914ef016f908030cd80f5daf3d8d18411"
+    },
+    {
+      "verse": 2,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/19/003-aac64-ab6a34e0dec2/verse-002.m4a",
+      "duration": 6.16,
+      "sha256": "abd63e97f726869cae0f5c824a36ae1e0e990402c12d0c5df0e4d74e20e32493",
+      "textHash": "0520d58c411c9e2ff88900dbfc3e078a40cc8dfe1778d9060fac6f895ba63bff"
+    },
+    {
+      "verse": 3,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/19/003-aac64-ab6a34e0dec2/verse-003.m4a",
+      "duration": 4.96,
+      "sha256": "fb0797726641b5a107be5604fecf82c3f395e7cfc21953970c0da83f979326c5",
+      "textHash": "fda1a93b9edf53fe5af14f30cc704786e8e1491c4a47b3dab91ec0a824217905"
+    },
+    {
+      "verse": 4,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/19/003-aac64-ab6a34e0dec2/verse-004.m4a",
+      "duration": 7.04,
+      "sha256": "54e6c99b309d4005eb58f2b3dac6ae1adc63e303ddfdbfda6286366b47612610",
+      "textHash": "b6aa10ace60263f989ed4ea8db5ac0c9d6757db69d7a858d9753d8d1b7b7e186"
+    },
+    {
+      "verse": 5,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/19/003-aac64-ab6a34e0dec2/verse-005.m4a",
+      "duration": 6.24,
+      "sha256": "710f59631d4fd8e347ffd39454f5d554e990f3687b57ad975b762a1569305f56",
+      "textHash": "5eea93175e67d23091b27199e4f45edd7bffac112594a7fff45edbc00fcda20f"
+    },
+    {
+      "verse": 6,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/19/003-aac64-ab6a34e0dec2/verse-006.m4a",
+      "duration": 5.12,
+      "sha256": "784229219b6c26cb5169d6cd7af9ca3a49d731aaf9f62d48b5727449b9e19f4e",
+      "textHash": "8b48d52dd79c7a49e36bbce998b6cdd00f21fc04b2f63c669b9ababd9162d99c"
+    },
+    {
+      "verse": 7,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/19/003-aac64-ab6a34e0dec2/verse-007.m4a",
+      "duration": 4.88,
+      "sha256": "314788e006f91b86938a1ad6af055e5fa05d4606fbef0de6e3a0f9c41acec468",
+      "textHash": "2190303a6a110b7e55b33d0fb078272233720d0b7ef847d0c4c40cc91fdfa95a"
+    },
+    {
+      "verse": 8,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/19/003-aac64-ab6a34e0dec2/verse-008.m4a",
+      "duration": 10.88,
+      "sha256": "c23a78e669ad1803adeb4de6807f2d085d6427043a8c9d5c7797444549af3ce9",
+      "textHash": "a6c1b883e282b7473a442d9c65044fe4c40a20cfdff7291df09222f6812980c5"
+    },
+    {
+      "verse": 9,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/19/003-aac64-ab6a34e0dec2/verse-009.m4a",
+      "duration": 6.56,
+      "sha256": "aba11668e9234b2ff7b262462e5347deff55760835e009d7568a817a65561ed6",
+      "textHash": "efebe9e4be16a1124e3d95a33c11721cd66091ae574180c28ec8016dd8b623cf"
+    }
+  ]
+}

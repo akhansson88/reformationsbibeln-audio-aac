@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "translation": "reformationsbibeln2026",
+  "sourceHash": "6b609674a1d129186b94db11f1a1ebe4fb9970d2a864377a427f349c7a39804d",
+  "revision": "aac64-a6237a842d7d",
+  "bookId": 19,
+  "book": "Psalms",
+  "bookName": "Psaltaren",
+  "chapter": 123,
+  "expectedVerses": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "container": "m4a",
+  "encoding": {
+    "name": "aac",
+    "profile": "aac_low",
+    "bitrate": 64000,
+    "sampleRate": 44100,
+    "channels": 1,
+    "container": "m4a",
+    "encoder": "ffmpeg aac",
+    "version": "aac64-v1"
+  },
+  "provider": "elevenlabs",
+  "model": "eleven_v4",
+  "voice": "qAZH0aMXY8tw1QufPN0D",
+  "voiceId": "qAZH0aMXY8tw1QufPN0D",
+  "voiceName": "ElevenLabs",
+  "verses": [
+    {
+      "verse": 1,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/19/123-aac64-a6237a842d7d/verse-001.m4a",
+      "duration": 6.4,
+      "sha256": "60a00a164d49a77cd652a9889ff73b4cba94b147f74fd43bc909dc84b3272e2b",
+      "textHash": "50c7053ce6776fdaeae2f82a921660f8d6bedbd2e06ab08c00f30f944618f31d"
+    },
+    {
+      "verse": 2,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/19/123-aac64-a6237a842d7d/verse-002.m4a",
+      "duration": 13.68,
+      "sha256": "f9cc5166fdafa95e261678a09c95d47f0de1cb7656ad494aa50b75b141176891",
+      "textHash": "cb9058e0c0b4eff5c54e5a6a2af69569f0a46a4a2f8baf21e87b3d2e94a0e3a5"
+    },
+    {
+      "verse": 3,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/19/123-aac64-a6237a842d7d/verse-003.m4a",
+      "duration": 7.28,
+      "sha256": "b91fca1e3025efdc90c441e2b0d48011a1c76c0ce1dd9c0cc6455c6ffda0f240",
+      "textHash": "54fd7732438b0c45d9c3754ca3049cf12a2b5c18132fdf8361d1019443eb347b"
+    },
+    {
+      "verse": 4,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/19/123-aac64-a6237a842d7d/verse-004.m4a",
+      "duration": 5.84,
+      "sha256": "ae6dfb1b37f7ab3b764f9bde331a2ad6f6dcec31631c8e73f7825f2106ffbf8e",
+      "textHash": "a386942f0eea244d62bd26b9ae733c8b8f53fcf887d8dd35b121d36bde510c5b"
+    }
+  ]
+}
