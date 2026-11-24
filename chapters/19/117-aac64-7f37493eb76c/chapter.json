@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "translation": "reformationsbibeln2026",
+  "sourceHash": "3deb0f0b2bba381be2c43cd474e8de909b9abee61798f789285e75527f4b0141",
+  "revision": "aac64-7f37493eb76c",
+  "bookId": 19,
+  "book": "Psalms",
+  "bookName": "Psaltaren",
+  "chapter": 117,
+  "expectedVerses": [
+    1,
+    2
+  ],
+  "container": "m4a",
+  "encoding": {
+    "name": "aac",
+    "profile": "aac_low",
+    "bitrate": 64000,
+    "sampleRate": 44100,
+    "channels": 1,
+    "container": "m4a",
+    "encoder": "ffmpeg aac",
+    "version": "aac64-v1"
+  },
+  "provider": "elevenlabs",
+  "model": "eleven_v4",
+  "voice": "qAZH0aMXY8tw1QufPN0D",
+  "voiceId": "qAZH0aMXY8tw1QufPN0D",
+  "voiceName": "ElevenLabs",
+  "verses": [
+    {
+      "verse": 1,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/19/117-aac64-7f37493eb76c/verse-001.m4a",
+      "duration": 5.04,
+      "sha256": "8d34218a3c9c40e4d3da872f21073eac4df5d6bc574855ca12ddb2ddf0f05f6e",
+      "textHash": "bf677ff79986eadfe9a4b920fd19d13514438fcc40afe643a4de6a494fcf093a"
+    },
+    {
+      "verse": 2,
+      "url": "https://raw.githubusercontent.com/akhansson88/reformationsbibeln-audio-aac/main/chapters/19/117-aac64-7f37493eb76c/verse-002.m4a",
+      "duration": 6.64,
+      "sha256": "5ce545bebd9f362071201e1a79c8a6163c2481d4a47d99c1987b86fb0c4c4638",
+      "textHash": "d554ce86188b04fb3e64e56b30929332ae31bc2a68829397bcd0641b77b38585"
+    }
+  ]
+}
